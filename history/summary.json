@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/api.feirm.com",
     "slug": "platform-api",
     "status": "down",
-    "uptime": "1.54%",
-    "uptimeDay": "1.54%",
-    "uptimeWeek": "1.54%",
-    "uptimeMonth": "1.54%",
-    "uptimeYear": "1.54%",
-    "time": 487,
-    "timeDay": 487,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "uptime": "27.02%",
+    "uptimeDay": "27.02%",
+    "uptimeWeek": "27.02%",
+    "uptimeMonth": "27.02%",
+    "uptimeYear": "27.02%",
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2021-12-18": 2
+      "2021-12-18": 5
     }
   }
 ]
