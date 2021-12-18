@@ -6,7 +6,7 @@ sites:
     url: https://feirm.com
   - name: "🔗 Platform API"
     url: https://api.feirm.com
-    exepctedStatusCodes:
+    expectedStatusCodes:
       - 200
       - 404
 
