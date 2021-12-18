@@ -12,6 +12,7 @@ sites:
 
 status-website:
   cname: status.feirm.com
+  favicon: https://feirm.com/favicon.ico
   logoUrl: https://feirm.com/favicon.ico
   name: Feirm Status
   introTitle: "**Privacy for everyone.**"
