@@ -4,7 +4,7 @@
     "url": "https://feirm.com",
     "icon": "https://favicons.githubusercontent.com/feirm.com",
     "slug": "web-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 133,
     "timeMonth": 150,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "🔗 Platform API",
